@@ -33,7 +33,7 @@
     "animate.css": "^3.5.2",
     "babel-polyfill": "^6.26.0",
     "bignumber.js": "^4.1.0",
-    "create-react-class": "^15.6.2",
+    "create-react-class": "^15.7.0",
     "js-polyfills": "^0.1.41",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
